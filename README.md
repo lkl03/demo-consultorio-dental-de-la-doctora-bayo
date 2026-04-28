@@ -1,2 +1,7 @@
-# demo-consultorio-dental-de-la-doctora-bayo
-Demo web para Consultorio Dental de la Doctora Bayo — diseñada por eterlab.
+# Consultorio Dental de la Doctora Bayo
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
